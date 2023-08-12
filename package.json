@@ -9,6 +9,11 @@
   "dependencies": {
     "express": "^4.14.0"
   },
+  "keywords": [
+    "backend",
+    "course",
+    "freecodecamp"
+  ],
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
