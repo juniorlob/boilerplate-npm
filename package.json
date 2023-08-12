@@ -1,5 +1,6 @@
 {
   "name": "fcc-learn-npm-package-json",
+  "license": "MIT",
   "author": {
     "name": "Junior Lobo",
     "email": "jairraiollobo@gmail.com",
